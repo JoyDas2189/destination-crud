@@ -1,0 +1,52 @@
+{
+  "locations": [
+    {
+      "id": "3b9c",
+      "locationName": "Cox's Bazar",
+      "description": "Place with  Sea Beach",
+      "locationType_id": 3,
+      "isPopular": "Popular",
+      "isSuggested": "Recommended"
+    },
+    {
+      "id": "36c4",
+      "locationName": "Bandarban",
+      "description": "Place With Forest",
+      "locationType_id": 5,
+      "isPopular": "Popular",
+      "isSuggested": "Recommended"
+    },
+    {
+      "id": "3414",
+      "locationName": "Chandranath ",
+      "description": "Place With Mountains",
+      "locationType_id": 2,
+      "isPopular": "Popular",
+      "isSuggested": "Recommended"
+    },
+    {
+      "id": "b4ec",
+      "locationName": "Mohamaya Lake",
+      "description": "Place with Lakes",
+      "locationType_id": 6,
+      "isPopular": "Popular",
+      "isSuggested": "Recommended"
+    },
+    {
+      "id": "01e8",
+      "locationName": "Khoiyachora Waterfall",
+      "description": "Place with Waterfall",
+      "locationType_id": 6,
+      "isPopular": "Popular",
+      "isSuggested": "Recommended"
+    },
+    {
+      "id": "cd55",
+      "locationName": "Mawa ",
+      "description": "Place with River",
+      "locationType_id": 7,
+      "isPopular": "Popular",
+      "isSuggested": "Recommended"
+    }
+  ]
+}
